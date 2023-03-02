@@ -1,4 +1,5 @@
 Hoje é dia de aula hehehe
 
-Estamos aprendendo lógica de programação
+Estamos aprendendo sobre git
 
+Hoje
